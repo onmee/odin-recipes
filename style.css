@@ -3,6 +3,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a h2 {
+    text-indent: 20px;
+}
+
 .line {
     background-color: green;
     height: 5px;
@@ -10,10 +14,19 @@
     width: 50%;
 }
 
-h2 {
-    text-indent: 20px;
+.recipe-line {
+    background-color: yellowgreen;
 }
 
 img {
     width: 50%;
+}
+
+ol p {
+    font-weight: bold;
+    font-style: italic;
+}
+
+ol li {
+    margin-top: 10px;
 }
