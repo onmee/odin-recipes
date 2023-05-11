@@ -4,4 +4,4 @@ As part of The Odin Project, I created a simple website with three tasty Nepales
 
 Created page structure for the homepage and recipe pages using HTML.
 
-Used inline CSS to style some HTML elements.
+Used inline CSS to style some HTML elements, which I then moved to an external CSS file.
